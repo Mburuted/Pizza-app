@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
->>>>>>> matser
-=======
->>>>>>> a11bf7b20512692f03988867b80ad2c6c3f0ee42
 $(function () {
     $('.summary').hide();
     $('.cdata-overlay').hide();
@@ -426,10 +419,4 @@ $(function () {
     $(function () {
         $.scrollify.move('#sum-order');
     });
- 
 });
- 
-});
- 
-});
- 

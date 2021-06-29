@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+ 
 /*!
  * jQuery Scrollify
  * Version 1.0.20
@@ -28,12 +27,7 @@
  * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 if touchScroll is false - update index
  */
-=======
-
->>>>>>> matser
-=======
-
->>>>>>> a11bf7b20512692f03988867b80ad2c6c3f0ee42
+ 
 (function (global,factory) {
     "use strict";
     if (typeof define === 'function' && define.amd) {
