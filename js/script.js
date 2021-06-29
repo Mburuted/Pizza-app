@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> matser
 $(function () {
     $('.summary').hide();
     $('.cdata-overlay').hide();
@@ -420,4 +423,8 @@ $(function () {
     $(function () {
         $.scrollify.move('#sum-order');
     });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> matser
