@@ -11,8 +11,11 @@ let validateInput = () => {
     if (size === "") {
         console.log("Please specify the size");
     }
-<<<<<<< HEAD
+ 
+ 
 }
-=======
-}
->>>>>>> matser
+ 
+ 
+ 
+ 
+ 
