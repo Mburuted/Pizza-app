@@ -6,11 +6,11 @@
 A pizza ordering web application.
 
 ## Author:
-> Victor Waichigo
+> Teddy mburu
 
 
 ## Setup:
-`` or download the zip file
+`https://github.com/Mburuted/Pizza-app.git` or download the zip file
 
 Extract the zip file
 
